@@ -1,0 +1,35 @@
+Chắc năng:
+
+----- Khách -----
+
+Trang chủ
+Tìm kiếm sản phẩm
+Xem chi tiết sản phẩm  ( sản phẩm còn hàng, hết hàng)
+Thêm vào giỏ hàng
+Tạo tài khoản
+Đăng nhập
+
+----- User ------
+
+Đăng xuất
+Thanh toán đơn hàng - Paypal
+
+sb-y7jiz14572183@personal.example.com
+{{9z!YRg
+
+Đánh giá sản phẩm (1 lần / 1 user)
+Xem chi tiết đơn hàng đã đặt
+Chỉnh sửa thông tin cá nhân
+
+---- Admin -----
+
+Thêm, xóa, sửa sản phẩm
+Thêm, xóa, sửa user
+Xem đơn hàng và xác nhận đơn hàng đã được giao
+
+
+
+
+
+
+
